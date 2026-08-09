@@ -1,0 +1,6 @@
+.venv/
+.matplotlib/
+models/*.task
+__pycache__/
+*.pyc
+.pytest_cache/
